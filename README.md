@@ -7,7 +7,7 @@ Hellion Client is a 1.19.3 syracruse skid with no obf and shit auth.
 3. Right shift to open the gui
 
 # Credits
-Made the client - Stokn, SwagzXoro <br />
+Making the client - Stokn, SwagzXoro <br />
 Cracking - Ykela
 
 # GUI
